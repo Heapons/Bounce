@@ -39,3 +39,4 @@ jobs:
         with:
           name: Bounce-${{env.PLUGIN_VERSION}}.${{env.PLUGIN_VERSION_REVISION}}
           path: ./build/package
+          
